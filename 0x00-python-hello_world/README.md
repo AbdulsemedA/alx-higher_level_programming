@@ -1,2 +1,1 @@
-This is a read me file for the python project 
-to be updated later...
+Python Hello World Project
