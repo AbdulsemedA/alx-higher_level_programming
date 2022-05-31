@@ -6,10 +6,10 @@ if number < 0:
 else:
     lastDigit = number % 10
 if lastDigit > 5:
-    print("Last digit of",number,"is",lastDigit,"and is greater than 5")
+    print("Last digit of",number,"is",lastDigit,"and is greater than 5\n")
 elif lastDigit == 0:
-    print("Last digit of",number,"is",lastDigit,"and is 0")
+    print("Last digit of",number,"is",lastDigit,"and is 0\n")
 elif lastDigit < 6 and lastDigit != 0:
-    print("Last digit of",number,"is",lastDigit,"and is less than 6 and not 0")
+    print("Last digit of",number,"is",lastDigit,"and is less than 6 and not 0\n")
     
 
