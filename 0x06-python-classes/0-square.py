@@ -1,8 +1,7 @@
 #!/usr/bin/python4
-""" To create a class called Square
-"""
+"""Define a class Square."""
 
 
 class Square:
-    """ This is an empty class
-    """
+    """Represent a square."""
+    pass
