@@ -4,12 +4,6 @@
 
 
 class Square:
-    """
-    class Square definition
-    Args:
-        size (int): size of a side in square
-    """
-
     def __init__(self, size=0):
         """
         Initializes square
