@@ -1,3 +1,3 @@
 #!/bin/bash
 # curl size
-curl -s "$1" | wc -c
+curl -i $1 | grep Content-Length | tail -c 4
